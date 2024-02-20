@@ -1,1 +1,1 @@
-# Alarm-Clock
+our project aims to develop a Python-based alarm clock using some innovative libraries such as datetime and tkinter. These libraries assist in setting the alarm according to the user's requirement in 24-hour format and utilizing the current date and time to display it. Additionally, tkinter enables us to create a user-friendly interface for the alarm clock.
